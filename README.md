@@ -10,4 +10,4 @@ Aquí documento mi proceso de aprendizaje sobre cómo funciona el hardware a baj
 * **Teoría base:** *Estructura y diseño de computadores* (Patterson & Hennessy).
 
 ## 📂 Contenido del Repositorio
-* **`/documentos`**: Apuntes y material de apoyo, incluyendo mi propia **Hoja de Referencia** en formato PDF (creada con LaTeX) con las instrucciones más usadas.
+* **`/tareas`**: Apuntes y material de apoyo, incluyendo mi propia **Hoja de Referencia** en formato PDF (creada con LaTeX) con las instrucciones más usadas.
